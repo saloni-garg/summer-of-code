@@ -8,7 +8,7 @@ sidebar: content
 scribble: scribble6
 ---
 
-# {{page.title}}
+# Rails Girls Summer of Code
 
 Rails Girls Summer of Code is an [award-winning](/blog/2016-06-01-ruby-heroes-2016){:target="_blank"} global fellowship program aimed at bringing more diversity into Open Source. The program welcomes all women and non-binary applicants who want to gain a footing in the world of programming and further expand their knowledge and skills. The focus is on advanced beginners who want to go into programming full-time.
 
